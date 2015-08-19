@@ -1,2 +1,2 @@
-# underscoreTemplating
+# Underscore Templating
 With Octocats!
